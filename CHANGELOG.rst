@@ -2,6 +2,11 @@
 Changelog for package bluetooth_pair
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Adding test-depend and moving from bin/ to scripts/ dir.
+* Contributors: Mike O'Driscoll
+
 0.0.1 (2017-03-09)
 ------------------
 * Adding BSD license file.
