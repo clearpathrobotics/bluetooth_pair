@@ -20,7 +20,7 @@ generate_messages()
 
 catkin_package(DEPENDS message_runtime)
 
-catkin_install_python(PROGRAMS bin/bluetooth_pair
+catkin_install_python(PROGRAMS scripts/bluetooth_pair
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 
