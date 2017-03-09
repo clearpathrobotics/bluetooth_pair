@@ -2,8 +2,8 @@
 Changelog for package bluetooth_pair
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.1 (2017-03-09)
+------------------
 * Adding BSD license file.
 * Add bluetooth pairing node
   Created a node for allowing pairing and management of
