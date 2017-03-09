@@ -2,8 +2,8 @@
 Changelog for package bluetooth_pair
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2017-03-09)
+------------------
 * Adding test-depend and moving from bin/ to scripts/ dir.
 * Contributors: Mike O'Driscoll
 
