@@ -2,8 +2,8 @@
 Changelog for package bluetooth_pair
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2017-04-25)
+------------------
 * Adding missing rospy depend
 * Contributors: Mike O'Driscoll
 
