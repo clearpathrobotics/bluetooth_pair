@@ -2,6 +2,11 @@
 Changelog for package bluetooth_pair
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Adding missing rospy depend
+* Contributors: Mike O'Driscoll
+
 0.0.2 (2017-03-09)
 ------------------
 * Adding test-depend and moving from bin/ to scripts/ dir.
