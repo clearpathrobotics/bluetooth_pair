@@ -2,8 +2,8 @@
 Changelog for package bluetooth_pair
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.5 (2021-08-13)
+------------------
 * SES-1598: Bump CMake version requirement
 * Contributors: Tracey Spicer
 
